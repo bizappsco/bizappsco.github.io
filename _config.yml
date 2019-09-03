@@ -11,7 +11,7 @@ city: Prahran
 state: VIC
 zip_code: 3181
 country: Australia
-phone: (+61) 0432255960
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
