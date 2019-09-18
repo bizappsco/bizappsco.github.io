@@ -1,0 +1,34 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://bizapps.dev
+title: Biz Apps Company
+email: contact@bizapps.dev
+author: Biz Apps Company
+description: 'Business Applications built on Microsoft Power Platform'
+copyright: '&copy; 2019 Biz Apps Company.'
+credits: 'Credits: Microsoft products and services mentioned are registered trademarks of Microsoft Corporation'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/bizappsco
+    name: twitter
+  - title: linkedin
+    url: https://www.linkedin.com/company/bizappsco
+    name: linkedin
+  - title: envelope
+    url: mailto:info@bizapps.dev
+    name: mail

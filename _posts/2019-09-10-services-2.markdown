@@ -1,0 +1,8 @@
+---
+layout: default
+img: platform2.png
+category: Services
+title: The Platform
+description: |
+---
+Leveraging the capabilities of Microsoft Power Platform and Azure Serverless computing we are developing cloud-native applications that are infused with intelligent services providing meaningful insights for better decision making.

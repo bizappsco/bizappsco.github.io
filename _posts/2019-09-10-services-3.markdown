@@ -1,0 +1,10 @@
+---
+layout: default
+img: cloud_scalability.png
+category: Services
+title: Apps at scale
+description: |
+---
+We believe that in today's world every business is equally important, regardless of its size.  
+Our applications are designed to scale so it doesn't matter if you are a small company or large enterprise you should use the technology to reach your full potential.  
+We work hard to finish what we are working on so stay tuned!
