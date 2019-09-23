@@ -1,6 +1,6 @@
 ---
 layout: default
-img: platform2.png
+img: platform3.png
 category: Services
 title: The Platform
 description: |
